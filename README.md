@@ -109,7 +109,7 @@ project-3-michelin/
 
 ---
 
-## ✨ Author
+## ✨ Leticia Paulino
 
 **Your Name**  
 [LinkedIn](https://www.linkedin.com/in/paulino-leticia/) · [GitHub](https://github.com/letpaulino)
